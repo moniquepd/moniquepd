@@ -3,6 +3,7 @@
 
 - 🌱 Estudando Power BI e Bancos de dados
 - 📫 Contate-me através do e-mail: mpdomingues10@gmail.com
+- 📃Currículo: https://shre.ink/GY0
 
 
 <div div align=justify>
