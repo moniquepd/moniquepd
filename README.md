@@ -1,7 +1,7 @@
 ### OLÁ, sou Monique 👋
 
 
-- 🌱 Estudando Power BI e Bancos de dados
+- 🌱 Estudando Banco de Dados, BI e Python 
 - 📫 Contate-me através do e-mail: mpdomingues10@gmail.com
 - 📃 Meu currículo: https://shre.ink/GY0
 
